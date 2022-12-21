@@ -1,0 +1,119 @@
+.backmag{
+    background-image: url('../images/image-1.jpg');
+    background-attachment: fixed;
+    width: 100%;
+    height: 300px;
+}
+.cont-2{
+    padding: 100px 0;
+    background-color: #10cb7f;
+    color: #fff;
+    width: 100%;  
+}
+.cont-3{
+    padding: 50px;
+}    
+.banner-con{
+    padding-top: 50px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+.box-con1{
+        color: #000;
+       
+        margin-top: -150px;
+}
+.con-3{
+    position: unset;
+}
+.succes{
+    padding-top: 200px;
+    padding-bottom: 50px;
+}
+.donate-back{
+    background: linear-gradient(rgba(27, 47, 69, 0.8), rgba(27, 47, 69, 0.8)), url(../images/image-6.jpg) center center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 5px 0;
+    width: 100%;
+    height: auto;
+}
+.formx-back {
+    background: linear-gradient(rgba(27, 47, 69, 0.8), rgba(27, 47, 69, 0.8)), url(../images/image-7.jpg)no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 100px 0;
+    width: 100%;
+    height: auto;
+}
+.event{
+    padding: 50px;
+}
+.event .img-box {
+    position: relative;
+}
+h5{
+    font-size: 16px;
+}
+.item-1{  
+    width: 70%;
+    height: auto;
+    text-align: center;
+    padding: 50px;
+}
+.comment-part{
+    background-color: #1111;
+}
+.item-2{
+    background-color: #f5f5f5;
+    height: auto;
+    text-align: center;
+    padding: 50px;
+}
+.text{
+    margin: 0px 20px 0px 20px;
+}
+.bran{
+    padding: 80px 50px 80px 50px;
+}
+.foot{
+    background-color: black;
+    width: 100%;
+}
+.foot-1{
+    padding: 50px;
+    color: #ffff;
+}
+.foot-1 ul li{
+    list-style: none;  
+}
+.foot-1 a{
+    text-decoration: none;
+    color: #ffff;
+}
+
+.r-box{
+    margin-left: 5px;
+}
+.make{
+    background-color: rgba(0, 0, 0, 0.705);
+     width: 670px;
+    color: #ffff;
+}
+.bot{
+    margin-bottom: 20px;
+}
+.bot-1{
+    width: auto;
+}
+.button-1{
+    background-color: rgb(250, 133, 0);
+}
+.bot-2{
+    margin-right: 20px;
+}
+.cart-im{
+    text-align: center;
+    width: 300px;
+    height: 225px;
+}
